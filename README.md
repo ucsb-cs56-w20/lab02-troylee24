@@ -1,7 +1,7 @@
 # lab02-troylee24
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-troylee24
-Repo: https://ucsb-cs56-w20/lab02-troylee24
+Repo: https://github.com/ucsb-cs56-w20/lab02-troylee24
 
 # About this repo
 
